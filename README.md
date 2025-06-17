@@ -1,6 +1,3 @@
-[![Python Version](https://img.shields.io/badge/Python-3.x-green.svg)]
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]
-
 # Fake News Classification 📰🚫
 
 ## 🚀 Project Overview
